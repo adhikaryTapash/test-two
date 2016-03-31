@@ -1,0 +1,14 @@
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\MyFirstWebApi.dll.config
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\MyFirstWebApi.dll
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\MyFirstWebApi.pdb
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\Newtonsoft.Json.dll
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\System.Web.Http.dll
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\Newtonsoft.Json.xml
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\System.Web.Http.xml
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\obj\Debug\MyFirstWebApi.csprojResolveAssemblyReference.cache
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\obj\Debug\MyFirstWebApi.dll
+C:\Users\winUser\Desktop\Git-Test_two\test-two\MyFirstWebApi\obj\Debug\MyFirstWebApi.pdb
